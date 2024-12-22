@@ -1,0 +1,34 @@
+.width30{
+    width:30%;
+}
+.float_right{
+    float:  right !important;
+}
+.custom_img{
+    width:150px;
+    height: 150px;
+}
+.card_title_center{
+    width: 100%;
+    text-align: center !important;
+}
+.custom_thead{
+    background-color: #233490;
+    color: #fff;
+}
+a.btn.btn-sm.btn-danger {
+    color: white;
+}
+.card{
+    width: 100% !important;
+}
+
+.alert.alert-success.text-right {
+    width: 100%;
+    text-align: right !important;
+}
+
+.alert.alert-danger.text-right {
+    width: 100%;
+    text-align: right !important;
+}
